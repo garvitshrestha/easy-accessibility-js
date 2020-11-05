@@ -1,0 +1,10 @@
+{
+  "name": "wp-accessibility-js",
+  "version": "1.0.0",
+  "description": "A javascript library for WordPress themes to help the theme developers with theme accessibility part.",
+  "main": "index.js",
+  "repository": "git@github.com:garvitshrestha/wp-accessibility-js.git",
+  "author": "Garvit Shrestha <shresthagarvit@gmail.com>",
+  "license": "GPL-3.0",
+  "private": true
+}
