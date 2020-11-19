@@ -1,10 +1,26 @@
 {
-  "name": "wp-accessibility-js",
+  "name": "easy-accessibility",
   "version": "1.0.0",
-  "description": "A javascript library for WordPress themes to help the theme developers with theme accessibility part.",
+  "description": "A javascript library for web developers with basic accessibility",
   "main": "index.js",
-  "repository": "git@github.com:garvitshrestha/wp-accessibility-js.git",
-  "author": "Garvit Shrestha <shresthagarvit@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garvitshrestha/easy-accessibility-js.git"
+  },
+  "author": "garvitshrestha",
   "license": "GPL-3.0",
-  "private": true
+  "bugs": {
+    "url": "https://github.com/garvitshrestha/easy-accessibility-js/issues"
+  },
+  "homepage": "https://github.com/garvitshrestha/easy-accessibility-js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "grunt": "^1.3.0",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-uglify": "^5.0.0"
+  }
 }

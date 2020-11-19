@@ -7,6 +7,8 @@
  * @license GPL-3.0 https://github.com/garvitshrestha/easy-accessibility-js/blob/master/LICENSE
  */
 
-const easyAccessibilityJS = () => {
-    
+const easyAccessibilityJS = (testParam) => {
+    console.log(testParam);
 }
+
+easyAccessibilityJS("test");
